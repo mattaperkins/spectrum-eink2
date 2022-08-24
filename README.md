@@ -1,12 +1,12 @@
 Remote UDP Network alarm  display for Inkpad 6 plus Eink display. 
 
-send packets to diplay as UDP.  Begin with time in HH:MM format (24 hour) 
+send packets to display as UDP.  Begin with time in HH:MM format (24 hour) 
 time only updates prefix with a "T" 
 Phone call updates prefix with a "P" (displays in bottom box) 
 
-GUI inkplate editor is at https://inkplate.io/home/gui-editor/ if modfication is needed. 
+GUI inkplate editor is at https://inkplate.io/home/gui-editor/ if modification is needed. 
 
-Use the following bash script on a unix host to update the clock every 5 min or so. Update IP to the IP of your inkplate. 
+Use the following bash script on a Unix host to update the clock every 5 min or so. Update IP to the IP of your inkplate. 
 
 
 <pre> 
@@ -26,5 +26,6 @@ To send an alarm or text line to the display from the following script and put w
 </pre>
 
 
+use versions with a Prepended P to update the phone screen at the bottom for your pabx. 
 
 # spectrum-eink2
