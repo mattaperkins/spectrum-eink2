@@ -26,6 +26,6 @@ To send an alarm or text line to the display from the following script and put w
 </pre>
 
 
-use versions with a Prepended P to update the phone screen at the bottom for your pabx. 
+use versions with a Prepended P to update the phone screen at the bottom from your pabx. 
 
 # spectrum-eink2
